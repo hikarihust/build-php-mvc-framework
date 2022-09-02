@@ -1,3 +1,3 @@
 <?php
 
-echo 'Hello from the public folder!';
+echo 'Requested URL = "' . $_SERVER['QUERY_STRING'] . '"';
