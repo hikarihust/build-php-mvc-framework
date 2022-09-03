@@ -6,3 +6,9 @@ Create and require (not include) the router class
 Create the routing table in the router, and add some routes
 Match the requested route to the list of routes in the routing table
     
+    ===========================================================================================
+
+                            Advanced routing: add simpler but more powerful routes
+
+Introduction to advanced routing using route variables
+    
