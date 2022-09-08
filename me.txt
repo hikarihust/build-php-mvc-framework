@@ -14,4 +14,10 @@ Introduction to advanced routing using route variables
 Get the controller and action from a URL with a fixed structure
 Get the controller and action from a URL with a variable structure
 Add custom variables of any format to the URL
+
+    ===========================================================================================
+
+                            Controllers and actions
+
+Dispatch the route: create the controller object and run the action method
     
