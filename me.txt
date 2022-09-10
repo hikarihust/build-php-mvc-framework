@@ -24,4 +24,5 @@ How to better organise your classes by using namespaces
 Class autoloading: load classes automatically without having to require them
 Load classes automatically: add namespaces and an autoload function
 Remove query string variables from the URL before matching to a route
+Pass route parameters from the route to all controllers
     
