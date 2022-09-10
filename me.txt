@@ -21,4 +21,5 @@ Add custom variables of any format to the URL
 
 Dispatch the route: create the controller object and run the action method
 How to better organise your classes by using namespaces
+Class autoloading: load classes automatically without having to require them
     
