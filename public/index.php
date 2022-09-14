@@ -5,6 +5,11 @@
  */
 
 /**
+ * Twig
+ */
+require_once dirname(__DIR__) . '/vendor/autoload.php';
+
+/**
  * Autoloader
  */
 spl_autoload_register(function ($class) {
