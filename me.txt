@@ -37,4 +37,5 @@ Organise controllers in subdirectories: add a route namespace option
 Display a view: create a class to render views and use it in a controller
 Pass data from the controller to the view
 Make views easier to create and maintain: add a template engine
+Remove repetition in the view templates: add a base template to inherit from
     
